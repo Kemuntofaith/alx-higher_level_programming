@@ -1,7 +1,5 @@
 # PYTHON - TEST-DRIVEN DEVELOPMENT
 
-/tmp/giphy-4.gif
-
 # Resources
 {
 https://alx-intranet.hbtn.io/rltoken/BwZJVq2MQ1_Vg_3gphoitQ
